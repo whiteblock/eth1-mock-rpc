@@ -168,7 +168,7 @@ go_repository(
 
 go_repository(
     name = "com_github_mattn_go_colorable",
-    commit = "8029fb3788e5a4a9c00e415f586a6d033f5d38b3",  # v0.1.2
+    commit = "68e95eba382c972aafde02ead2cd2426a8a92480",  # v0.1.6
     importpath = "github.com/mattn/go-colorable",
 )
 
