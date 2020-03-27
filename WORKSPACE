@@ -152,7 +152,7 @@ go_repository(
 
 go_repository(
     name = "com_github_dgraph_io_ristretto",
-    commit = "99d1bbbf28e64530eb246be0568fc7709a35ebdd",  # v0.0.1
+    commit = "dbc185e050f48c5190a78b4a07829d9c10afca21",  # v0.0.2
     importpath = "github.com/dgraph-io/ristretto",
 )
 
